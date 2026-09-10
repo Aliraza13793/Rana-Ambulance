@@ -1,0 +1,358 @@
+
+> rana-ambulance@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.25
+   - Local:        http://localhost:3000
+   - Network:      http://172.18.115.125:3000
+   - Experiments (use with caution):
+     · optimizePackageImports
+
+ ✓ Starting...
+ ✓ Ready in 8s
+ ○ Compiling / ...
+ ✓ Compiled / in 20.8s (1390 modules)
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ GET / 200 in 2586ms
+ ○ Compiling /_not-found ...
+ GET / 200 in 4510ms
+ ✓ Compiled /_not-found in 8.5s (1395 modules)
+ GET /site.webmanifest 404 in 15509ms
+ ○ Compiling /favicon.ico ...
+ GET /site.webmanifest 404 in 2853ms
+ ✓ Compiled /favicon.ico in 6.4s (773 modules)
+ GET /favicon.ico 200 in 11445ms
+ GET /favicon.ico 200 in 103ms
+ GET /favicon.ico 200 in 85ms
+ GET /favicon.ico 200 in 121ms
+ GET /favicon.ico 200 in 111ms
+ ✓ Compiled in 2.2s (1390 modules)
+ GET / 200 in 3939ms
+ ✓ Compiled in 1534ms (1390 modules)
+ GET / 200 in 3073ms
+ ✓ Compiled in 853ms (1390 modules)
+ GET / 200 in 341ms
+ ✓ Compiled in 1386ms (1390 modules)
+ ✓ Compiled in 4.1s (1390 modules)
+ ✓ Compiled in 2.1s (1390 modules)
+ ✓ Compiled in 2.2s (1390 modules)
+ ✓ Compiled in 936ms (1390 modules)
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ GET / 200 in 8642ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 7.6s (1381 modules)
+ GET /site.webmanifest 404 in 9344ms
+ GET /site.webmanifest 404 in 904ms
+ ✓ Compiled in 4.9s (1395 modules)
+ GET / 200 in 2587ms
+ ✓ Compiled in 7.5s (1390 modules)
+ GET / 200 in 995ms
+ ✓ Compiled in 3s (1390 modules)
+ GET / 200 in 3684ms
+ ✓ Compiled in 4.2s (1390 modules)
+ GET / 200 in 2504ms
+ ✓ Compiled in 4.2s (1390 modules)
+ GET / 200 in 2249ms
+ ✓ Compiled in 1256ms (1390 modules)
+ GET / 200 in 1347ms
+ ✓ Compiled in 1021ms (1390 modules)
+ GET / 200 in 1546ms
+ ✓ Compiled in 1220ms (1390 modules)
+ ✓ Compiled in 802ms (635 modules)
+ GET / 200 in 298ms
+ GET / 200 in 808ms
+ ✓ Compiled in 1127ms (1390 modules)
+ GET / 200 in 1500ms
+ ✓ Compiled in 2.9s (1390 modules)
+ GET / 200 in 1188ms
+ ✓ Compiled in 4.1s (1390 modules)
+ GET / 200 in 1969ms
+ ✓ Compiled in 4.1s (1390 modules)
+ GET / 200 in 1109ms
+ ✓ Compiled in 2.9s (1390 modules)
+ GET / 200 in 963ms
+ ✓ Compiled in 609ms (1390 modules)
+ GET / 200 in 214ms
+ ✓ Compiled in 4s (1390 modules)
+ GET / 200 in 2158ms
+ ✓ Compiled in 656ms (1390 modules)
+ GET / 200 in 532ms
+ ✓ Compiled in 849ms (1390 modules)
+ GET / 200 in 320ms
+ ✓ Compiled in 1314ms (1390 modules)
+ GET / 200 in 342ms
+ ✓ Compiled in 1484ms (1390 modules)
+ GET / 200 in 309ms
+ ✓ Compiled in 1066ms (1390 modules)
+ GET / 200 in 474ms
+ ✓ Compiled in 1739ms (1390 modules)
+ GET / 200 in 1749ms
+ ✓ Compiled in 966ms (1390 modules)
+ GET / 200 in 240ms
+ ✓ Compiled in 1481ms (1390 modules)
+ GET / 200 in 301ms
+ ✓ Compiled in 773ms (1390 modules)
+ GET / 200 in 232ms
+ ✓ Compiled in 943ms (1390 modules)
+ GET / 200 in 447ms
+ ✓ Compiled in 1990ms (1390 modules)
+ GET / 200 in 382ms
+ ✓ Compiled in 963ms (1390 modules)
+ GET / 200 in 301ms
+ ✓ Compiled in 1641ms (1390 modules)
+ GET / 200 in 314ms
+ ✓ Compiled in 3.2s (1390 modules)
+ GET / 200 in 1257ms
+ ✓ Compiled in 2.4s (1390 modules)
+ GET / 200 in 1590ms
+ ✓ Compiled in 1290ms (1390 modules)
+ GET / 200 in 276ms
+ ✓ Compiled in 761ms (1390 modules)
+ GET / 200 in 375ms
+ ✓ Compiled in 3.9s (1390 modules)
+ GET / 200 in 629ms
+ ✓ Compiled in 4.4s (1390 modules)
+ GET / 200 in 2321ms
+ ✓ Compiled in 897ms (1390 modules)
+ GET / 200 in 630ms
+ ✓ Compiled in 2.3s (1390 modules)
+ GET / 200 in 733ms
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ GET / 200 in 3572ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 3.6s (1381 modules)
+ GET /site.webmanifest 404 in 4567ms
+ GET /site.webmanifest 404 in 2412ms
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ GET / 200 in 2450ms
+ ✓ Compiled in 8.2s (1390 modules)
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ GET / 200 in 2507ms
+ ○ Compiling /_not-found ...
+ ✓ Compiled /_not-found in 1709ms (1381 modules)
+ GET /site.webmanifest 404 in 3414ms
+ GET /site.webmanifest 404 in 1404ms
+ ✓ Compiled in 5.4s (1391 modules)
+ GET / 200 in 1036ms
+ ✓ Compiled in 1122ms (1390 modules)
+ GET / 200 in 1317ms
+ ✓ Compiled in 6.9s (1390 modules)
+ GET / 200 in 3049ms
+ ✓ Compiled in 10.6s (1390 modules)
+ GET / 200 in 1964ms
+ ✓ Compiled in 8.1s (1390 modules)
+ GET / 200 in 533ms
+ ✓ Compiled in 2.2s (1390 modules)
+ GET / 200 in 569ms
+ ✓ Compiled in 1551ms (1390 modules)
+ ✓ Compiled in 6.1s (1390 modules)
+ ✓ Compiled in 14.4s (1390 modules)
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ ○ Compiling /_not-found ...
+ GET / 200 in 4565ms
+ ✓ Compiled /_not-found in 4.8s (1381 modules)
+ GET /site.webmanifest 404 in 6764ms
+ GET /site.webmanifest 404 in 764ms
+ ✓ Compiled in 3.9s (1390 modules)
+ GET / 200 in 1209ms
+ ✓ Compiled in 3s (1390 modules)
+ GET / 200 in 1649ms
+ ✓ Compiled in 2.9s (1390 modules)
+ GET / 200 in 972ms
+ ✓ Compiled in 1407ms (1390 modules)
+ GET / 200 in 3679ms
+ ✓ Compiled in 2.7s (1390 modules)
+ GET / 200 in 920ms
+ ✓ Compiled in 982ms (1390 modules)
+ GET / 200 in 211ms
+ ✓ Compiled in 1220ms (1390 modules)
+ GET / 200 in 2910ms
+ ✓ Compiled in 1430ms (1390 modules)
+ GET / 200 in 3002ms
+ ✓ Compiled in 6.3s (1390 modules)
+ GET / 200 in 1781ms
+ ✓ Compiled in 1363ms (1390 modules)
+ ✓ Compiled in 3.5s (1390 modules)
+ GET / 200 in 2939ms
+ GET / 200 in 548ms
+ ✓ Compiled in 820ms (1390 modules)
+ GET / 200 in 375ms
+ ✓ Compiled in 2.9s (1390 modules)
+ GET / 200 in 1514ms
+ ✓ Compiled in 921ms (1390 modules)
+ GET / 200 in 1259ms
+ ✓ Compiled in 5s (1390 modules)
+ GET / 200 in 2405ms
+ ✓ Compiled in 3.5s (1390 modules)
+ GET / 200 in 487ms
+ ✓ Compiled in 1542ms (1390 modules)
+ ✓ Compiled in 1994ms (1390 modules)
+ ✓ Compiled in 1182ms (1390 modules)
+ ✓ Compiled in 2.5s (1390 modules)
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ ○ Compiling /_not-found ...
+ GET / 200 in 3823ms
+ ✓ Compiled /_not-found in 6.2s (1395 modules)
+ GET /site.webmanifest 404 in 7575ms
+ GET /site.webmanifest 404 in 1318ms
+ ✓ Compiled in 2.3s (1390 modules)
+ ✓ Compiled in 1761ms (1390 modules)
+ GET / 200 in 300ms
+ GET / 200 in 131ms
+ ✓ Compiled in 6.2s (1390 modules)
+ GET / 200 in 641ms
+ ✓ Compiled in 3s (1390 modules)
+ GET / 200 in 2715ms
+ ✓ Compiled in 6.6s (1390 modules)
+ GET / 200 in 982ms
+ ✓ Compiled in 6.4s (1390 modules)
+ GET / 200 in 884ms
+ ✓ Compiled in 3.6s (1390 modules)
+ GET / 200 in 1297ms
+ ✓ Compiled in 5.6s (1390 modules)
+ GET / 200 in 1007ms
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ ○ Compiling /_not-found ...
+ GET / 200 in 4304ms
+ ✓ Compiled /_not-found in 4.3s (1381 modules)
+ GET /site.webmanifest 404 in 5545ms
+ GET /site.webmanifest 404 in 1442ms
+ ✓ Compiled in 884ms (1395 modules)
+ GET / 200 in 264ms
+ ✓ Compiled in 3s (1390 modules)
+ GET / 200 in 2100ms
+ ✓ Compiled in 3.4s (1390 modules)
+ GET / 200 in 1564ms
+ ✓ Compiled in 4.5s (1390 modules)
+ GET / 200 in 750ms
+ ✓ Compiled in 4.8s (1390 modules)
+ GET / 200 in 1385ms
+ ✓ Compiled in 6.8s (1390 modules)
+ GET / 200 in 1332ms
+ ✓ Compiled in 6.9s (1390 modules)
+ GET / 200 in 581ms
+ ✓ Compiled in 6.5s (1390 modules)
+ GET / 200 in 659ms
+ ✓ Compiled in 3.2s (1390 modules)
+ GET / 200 in 1489ms
+ ✓ Compiled in 11.1s (1390 modules)
+ GET / 200 in 1628ms
+ ✓ Compiled in 3.7s (1390 modules)
+ GET / 200 in 1263ms
+ ✓ Compiled in 8.2s (1390 modules)
+ GET / 200 in 976ms
+ ✓ Compiled in 5.6s (1390 modules)
+ GET / 200 in 561ms
+ ✓ Compiled in 5.9s (1390 modules)
+ GET / 200 in 806ms
+ ✓ Compiled in 2.6s (1390 modules)
+ GET / 200 in 1014ms
+ ✓ Compiled in 4.3s (1390 modules)
+ GET / 200 in 624ms
+ ✓ Compiled in 2.8s (1390 modules)
+ GET / 200 in 2134ms
+ ✓ Compiled in 4.7s (1390 modules)
+ GET / 200 in 900ms
+ ✓ Compiled in 2.3s (1390 modules)
+ GET / 200 in 1217ms
+ ✓ Compiled in 6.2s (1390 modules)
+ GET / 200 in 845ms
+ ✓ Compiled in 2.7s (1390 modules)
+ GET / 200 in 848ms
+ ✓ Compiled in 679ms (1390 modules)
+ GET / 200 in 323ms
+ ✓ Compiled in 1050ms (1390 modules)
+ GET / 200 in 1808ms
+ ✓ Compiled in 8.1s (1390 modules)
+ GET / 200 in 2478ms
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ ○ Compiling /_not-found ...
+ GET / 200 in 4955ms
+ ✓ Compiled /_not-found in 7.3s (1381 modules)
+ GET /site.webmanifest 404 in 9047ms
+ GET /site.webmanifest 404 in 880ms
+ ✓ Compiled in 3.8s (1390 modules)
+ GET / 200 in 217ms
+ ✓ Compiled in 7.1s (1390 modules)
+ GET / 200 in 1268ms
+ ✓ Compiled in 1932ms (1390 modules)
+ GET / 200 in 1727ms
+ ✓ Compiled in 8.4s (1390 modules)
+ ✓ Compiled in 2.1s (635 modules)
+ GET / 200 in 2266ms
+ GET / 200 in 701ms
+ ✓ Compiled in 842ms (1390 modules)
+ GET / 200 in 336ms
+ ✓ Compiled in 610ms (1390 modules)
+ GET / 200 in 265ms
+ ✓ Compiled in 1537ms (1390 modules)
+ GET / 200 in 246ms
+ ✓ Compiled in 9.5s (1390 modules)
+ GET / 200 in 4033ms
+ ✓ Compiled in 1375ms (1390 modules)
+ GET / 200 in 1503ms
+ ✓ Compiled in 6.4s (1390 modules)
+ ✓ Compiled in 584ms (635 modules)
+ GET / 200 in 404ms
+ ✓ Compiled in 1184ms (1390 modules)
+ GET / 200 in 343ms
+ ✓ Compiled in 1222ms (1390 modules)
+ GET / 200 in 1236ms
+ GET / 200 in 1338ms
+ ✓ Compiled in 9.7s (1390 modules)
+ GET / 200 in 1332ms
+ ✓ Compiled in 13.6s (1390 modules)
+ GET / 200 in 3990ms
+Image with src "/pics/hero/Pict 1.png" is using quality "90" which is not configured in images.qualities. This config will be required starting in Next.js 16.
+Read more: https://nextjs.org/docs/messages/next-image-unconfigured-qualities
+ ○ Compiling /_not-found ...
+ GET / 200 in 5223ms
+ ✓ Compiled /_not-found in 29.3s (1381 modules)
+ GET /site.webmanifest 404 in 29989ms
+ ✓ Compiled in 2.9s (1390 modules)
+ GET / 200 in 1281ms
+ ✓ Compiled in 2.9s (1390 modules)
+ GET / 200 in 262ms
+ ✓ Compiled in 2.5s (1390 modules)
+ GET / 200 in 1106ms
+ ✓ Compiled in 2.6s (1390 modules)
+ GET / 200 in 223ms
+ ✓ Compiled in 5.7s (1390 modules)
+ GET / 200 in 614ms
+ ✓ Compiled in 1682ms (1390 modules)
+ GET / 200 in 365ms
+ ✓ Compiled in 5.3s (1390 modules)
+ GET / 200 in 764ms
+ ✓ Compiled in 5.3s (1390 modules)
+ GET / 200 in 788ms
+ ✓ Compiled in 749ms (1390 modules)
+ GET / 200 in 201ms
+ ✓ Compiled in 810ms (1390 modules)
+ GET / 200 in 1817ms
+ ✓ Compiled in 542ms (1390 modules)
+ GET / 200 in 1549ms
+ ✓ Compiled in 2.1s (1390 modules)
+ GET / 200 in 513ms
+ ✓ Compiled in 913ms (1390 modules)
+ GET / 200 in 262ms
+ ✓ Compiled in 1016ms (1390 modules)
+ GET / 200 in 1216ms
+ ✓ Compiled in 2.2s (1390 modules)
+ GET / 200 in 870ms
+ ✓ Compiled in 673ms (1390 modules)
+ GET / 200 in 196ms
+ ✓ Compiled in 6.8s (1390 modules)
+ GET / 200 in 1351ms
+ ✓ Compiled in 1434ms (1390 modules)
+ GET / 200 in 1350ms
+ ✓ Compiled in 1196ms (1390 modules)
+ GET / 200 in 906ms
