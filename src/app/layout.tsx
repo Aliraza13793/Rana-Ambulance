@@ -200,6 +200,55 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
             }),
           }}
         />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "Service",
+              serviceType: "Ambulance Service",
+              name: "Rana Ambulance Services",
+              description: "24/7 emergency and medical transportation services across Pakistan",
+              provider: {
+                "@type": "LocalBusiness",
+                name: "Rana Ambulance Services",
+              },
+              areaServed: {
+                "@type": "Country",
+                name: "Pakistan",
+              },
+              hasOfferCatalog: {
+                "@type": "OfferCatalog",
+                name: "Ambulance Services",
+                itemListElement: [
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Emergency Ambulance" } },
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "ICU Ambulance" } },
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Ventilator Ambulance" } },
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Oxygen Ambulance" } },
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Patient Transport" } },
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Hospital Transfer" } },
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Long Distance Ambulance" } },
+                  { "@type": "Offer", itemOffered: { "@type": "Service", name: "Wheelchair Transport" } },
+                ],
+              },
+            }),
+          }}
+        />
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "BreadcrumbList",
+              itemListElement: [
+                { "@type": "ListItem", position: 1, name: "Home", item: "https://ranaambulance.com" },
+                { "@type": "ListItem", position: 2, name: "Services", item: "https://ranaambulance.com/#services" },
+                { "@type": "ListItem", position: 3, name: "Fleet", item: "https://ranaambulance.com/#fleet" },
+                { "@type": "ListItem", position: 4, name: "Contact", item: "https://ranaambulance.com/#contact" },
+              ],
+            }),
+          }}
+        />
       </head>
       <body className="min-h-full flex flex-col">{children}</body>
     </html>

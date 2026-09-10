@@ -1,0 +1,29 @@
+{
+  "name": "Rana Ambulance Services",
+  "short_name": "Rana Ambulance",
+  "description": "24/7 Emergency & Medical Transportation Across Pakistan",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#DC2626",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["medical", "health"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}

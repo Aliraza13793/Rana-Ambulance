@@ -52,7 +52,7 @@ export default function Gallery() {
             <button onClick={(e) => { e.stopPropagation(); prevImage(); }} className="absolute left-2 sm:left-4 text-white hover:text-medical-red z-10 p-2"><ChevronLeft className="w-8 h-8" /></button>
             <button onClick={(e) => { e.stopPropagation(); nextImage(); }} className="absolute right-2 sm:right-4 text-white hover:text-medical-red z-10 p-2"><ChevronRight className="w-8 h-8" /></button>
             <motion.div key={selectedImage} initial={{ opacity: 0, scale: 0.95 }} animate={{ opacity: 1, scale: 1 }} exit={{ opacity: 0, scale: 0.95 }} className="max-w-4xl w-full max-h-[85vh] relative" onClick={(e) => e.stopPropagation()}>
-              <Image src={galleryItems.find((i) => i.id === selectedImage)?.image || ""} alt="" width={1200} height={800} className="w-full h-auto max-h-[85vh] object-contain rounded-xl" />
+              <Image src={galleryItems.find((i) => i.id === selectedImage)?.image || ""} alt={galleryItems.find((i) => i.id === selectedImage)?.title || "Rana Ambulance"} width={1200} height={800} className="w-full h-auto max-h-[85vh] object-contain rounded-xl" />
               <div className="absolute bottom-4 left-4 right-4 text-center"><p className="text-white font-bold text-lg drop-shadow-lg">{galleryItems.find((i) => i.id === selectedImage)?.title}</p></div>
             </motion.div>
           </motion.div>
