@@ -25,13 +25,13 @@ export default function EmergencyContact() {
             <h2 className="text-2xl sm:text-3xl lg:text-4xl font-bold text-white" style={{ marginTop: '9px',marginBottom: '9px' }}>NEED HELP NOW?</h2>
             <p className="text-white/80 text-sm sm:text-base mb-6 w-full text-center" style={{ marginBottom: '11px' }}>Call Rana Ambulance Services for immediate emergency medical transportation across Pakistan.</p>
             <div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center mb-6">
-              <a href={generateCallLink(COMPANY.phone[0])} className="inline-flex items-center justify-center gap-3 bg-white text-medical-red px-6 py-3 rounded-full font-bold text-sm hover:shadow-xl transition-all" style={{ padding: '10px 13px' }}>
+              <a href={generateCallLink(COMPANY.phone[1])} className="inline-flex items-center justify-center gap-3 bg-white text-medical-red px-6 py-3 rounded-full font-bold text-sm hover:shadow-xl transition-all" style={{ padding: '10px 13px' }}>
                 <Phone className="w-4 h-4 shrink-0" />
-                <span>CALL NOW | {COMPANY.phone[0]}</span>
+                <span>CALL NOW | +92 300 8066519</span>
               </a>
               <a href={generateWhatsAppLink(COMPANY.whatsapp[0])} target="_blank" rel="noopener noreferrer" className="inline-flex items-center justify-center gap-3 bg-green-500 text-white px-6 py-3 rounded-full font-bold text-sm hover:bg-green-600 transition-all shadow-lg" style={{ padding: '10px 13px' }}>
                 <MessageCircle className="w-4 h-4 shrink-0" />
-                <span>WHATSAPP | {COMPANY.whatsapp[0]}</span>
+                <span>WHATSAPP | +92 322 4200454</span>
               </a>
             </div>
             <div className="flex flex-wrap justify-center gap-4 sm:gap-6">

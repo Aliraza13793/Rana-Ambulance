@@ -45,7 +45,7 @@ export default function Hero() {
                 <Phone className="w-5 h-5" />CALL AMBULANCE NOW
               </a>
               <a href={generateCallLink(COMPANY.phone[1])} className="inline-flex items-center justify-center gap-3 bg-gradient-to-r from-medical-red to-medical-red-dark text-white px-8 py-4 rounded-2xl font-bold text-lg hover:shadow-xl hover:shadow-red-500/30 transition-all emergency-pulse">
-                <Phone className="w-5 h-5" />0300-8066519
+                <Phone className="w-5 h-5" />+92 300 8066519
               </a>
               <div className="flex gap-3">
                 <a href="#contact" className="flex-1 inline-flex items-center justify-center gap-2 bg-white/10 backdrop-blur-sm text-white px-5 py-3.5 rounded-2xl font-semibold text-sm hover:bg-white/20 transition-all border border-white/10">
